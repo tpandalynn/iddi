@@ -41,11 +41,11 @@
       </div>
     </div>
     <div class="row">
-      <div class="span7">
+      <div class="span6">
         <img class="center" src="http://icons.iconarchive.com/icons/icons-land/vista-style-emoticons/256/Study-icon.png"
         style=" width: 256px; height: 261px;">
       </div>
-      <div class="span7">
+      <div class="span6">
         <div>
           <h3>
             iddi.it
@@ -69,14 +69,14 @@
               </div>
             </div>
             <div class="span4">
-              <a class="btn btn-primary" href="screen-3b9fce69ff-dashboard.html">
+              <a class="btn btn-primary" href="dashboard.html">
                 Create my Account
               </a>
             </div>
           </div>
         </form>
         <div class="btn-group">
-          <a class="btn btn-inverse btn-small" href="screen-f34fbb3a52-login.html">
+          <a class="btn btn-inverse btn-small" href="login.html">
             Log in
           </a>
           <a class="btn btn-warning btn-small" href="#">
