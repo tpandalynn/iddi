@@ -1,7 +1,6 @@
-
 /* ----------------- Main menu ------------- */
-$('div.company').html('iddi');
-$('div.user').html('Theresa Johnson');
+$('span.company').html('iddi');
+$('span.user').html('Theresa Johnson');
 
 /* -------------------- Check Browser --------------------- */
 
