@@ -224,9 +224,9 @@ function tempStats(){
 		
 		$('.tempStat').each(function(){
 			
-			var temp = Math.floor(Math.random()*(1+120));
+			var temp = Math.floor(Math.random()*(1+99));
 			
-			$(this).html(temp + '°');
+			$(this).html(temp + '%'); //  + '°');
 						
 			if (temp < 20) {
 				
