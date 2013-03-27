@@ -129,6 +129,10 @@ $(document).ready(function(){
 		
 		
 	});
+
+/* ----------------- Main menu ------------- */
+$('div.MainMenu')
+  .html('<p>All new content. <em>You bet!</em></p>');
 	
 	/* ---------- Submenu  ---------- */
 	
