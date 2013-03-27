@@ -132,7 +132,8 @@ $(document).ready(function(){
 
 /* ----------------- Main menu ------------- */
 $('div.main-menu')
-  .html('<div id="sidebar-left" class="span1">
+  .html('
+  <div id="sidebar-left" class="span1">
 				<div class="nav-collapse sidebar-nav">
 					<ul class="nav nav-tabs nav-stacked main-menu">
 						<li class="active"><a href="index.html"><i class="fa-icon-bar-chart"></i><span class="hidden-tablet"> Dashboard</span></a></li>	
@@ -160,7 +161,8 @@ $('div.main-menu')
 						<li><a href="login.html"><i class="fa-icon-lock"></i><span class="hidden-tablet"> Login Page</span></a></li>
 					</ul>
 				</div>
-			</div>');
+			</div>'
+			);
 	
 	/* ---------- Submenu  ---------- */
 	
